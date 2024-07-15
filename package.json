@@ -1,0 +1,60 @@
+{
+  "name": "zezenia",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongodb": "^5.5.0",
+    "morgan": "^1.10.0",
+    "multiselect-react-dropdown": "^2.0.17",
+    "nodemon": "^2.0.22",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.1.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-image-gallery": "^1.2.7",
+    "react-multiple-image-input": "^1.0.0",
+    "react-paginate": "^8.1.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "^5.0.0",
+    "react-toastify": "^9.1.3",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "slugify": "^1.6.6",
+    "unop-react-dropdown": "^0.2.3",
+    "web-vitals": "^2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
